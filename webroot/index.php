@@ -10,7 +10,7 @@
 <body>
     <h1>This is my practice project</h1>
 
-<?php //include "Nemanja.php";?>
+<?php include "Nemanja.php";?>
 
 </body>
 </html>
