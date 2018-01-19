@@ -8,7 +8,7 @@
 
 /**
  * 1.1 Which of these definitions best explains the term ‘class’?
-    A: Groups the code that is related to a certain topic.**
+    A: Groups the code that is related to a certain topic.***
     B: Sets and gets the class own properties and methods.
     C: Is the embodiment of a real life object.
  */
