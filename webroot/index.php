@@ -12,7 +12,8 @@
 
 <?php //include "Classes.php";
       //include "This.php";
-       include "ChainingMethods.php";
+      //include "ChainingMethods.php";
+      include "public_ vs_private.php";
 ?>
 
 
