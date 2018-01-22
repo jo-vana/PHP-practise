@@ -14,7 +14,8 @@
       //include "This.php";
       //include "ChainingMethods.php";
       //include "public_ vs_private.php";
-        include "construct() magic.php";
+      //include "construct() magic.php";
+        include "Inheritance_in_oop.php";
 ?>
 
 
