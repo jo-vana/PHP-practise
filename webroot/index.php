@@ -16,7 +16,8 @@
       //include "public_ vs_private.php";
       //include "construct() magic.php";
       //include "Inheritance_in_oop.php";
-        include "abstract_class_method.php";
+      //include "abstract_class_method.php";
+    include "Interfaces_abstraction.php";
 ?>
 
 
