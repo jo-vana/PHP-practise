@@ -19,7 +19,8 @@
       //include "abstract_class_method.php";
       //include "Interfaces_abstraction.php";
 //        include "polymorphism.php";
-include "type_hinting.php";
+//include "type_hinting.php";
+include "static_methods_properties.php";
 ?>
 
 
