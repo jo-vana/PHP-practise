@@ -17,7 +17,8 @@
       //include "construct() magic.php";
       //include "Inheritance_in_oop.php";
       //include "abstract_class_method.php";
-    include "Interfaces_abstraction.php";
+      //include "Interfaces_abstraction.php";
+        include "polymorphism.php";
 ?>
 
 
