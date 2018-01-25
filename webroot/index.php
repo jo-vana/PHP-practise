@@ -21,7 +21,8 @@
 //        include "polymorphism.php";
 //include "type_hinting.php";
 //include "static_methods_properties.php";
-include  "traits_code_inclusion.php";
+//include  "traits_code_inclusion.php";
+include "namespace.php";
 ?>
 
 
